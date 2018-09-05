@@ -1,4 +1,4 @@
-#Pico y Placa Program Iterview test
+#Pico y Placa Program Interview test
 #by Austin Reed
 #Version 1.0
 
